@@ -1,5 +1,15 @@
-p, li, h1 {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
+h1 {
+	color: purple;
 }
+p {
+  color: blue;
+  width: 750px;
+ }
+ .quote {
+ 	color: red;
+	border: 2px dotted black;
+	width: 400px;
+	font-style: italic;
+	text-indent: 20px;
+}
+  
