@@ -26,14 +26,20 @@ p {
   width: 750px;
  }
  .quote {
- 	color: red;
+ 	color: white;
 	border: 2px dotted black;
-	width: 400px;
+	width: 300px;
 	font-style: italic;
-	text-indent: 20px;
+  font-style: bold;
+	text-indent: 30px;
+  margin: 0 auto;
 }
   
   html {
   font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+.onclick {
+  color: red;
 }
